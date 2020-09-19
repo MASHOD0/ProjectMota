@@ -22,7 +22,5 @@ list of pages
  This page will have my stored data
  ## Family Dashboard
  This page will have all the family data .
- ## Developers
- Mashhood 
+ ## Developer
  Nawaal 
- Ashfaq
