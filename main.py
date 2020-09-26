@@ -1,9 +1,6 @@
 from flask import Flask
-
 app = Flask(__name__)
 
 @app.route('/')
-def ping():
-    return "Pong!!"
-
-app.run(port=2020)
+def hello_world():
+    return 'Hello, World!'
