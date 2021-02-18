@@ -23,5 +23,6 @@ list of pages
  ## Family Dashboard
  This page will have all the family data .
  ## Developers
- Nawaal
- Ashfaq
+ [Mashhood](https://github.com/MASHOD0)
+ [Nawaal](https://github.com/N44W4L)
+ 
